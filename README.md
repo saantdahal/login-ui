@@ -1,4 +1,4 @@
-## Flutter Beautiful Login Page UI Design and Animation - Day 14
+## Flutter Beautiful Login Page UI Design and Animation
 
 ## Development Setup
 
